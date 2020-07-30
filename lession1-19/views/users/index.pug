@@ -1,0 +1,23 @@
+extend ../layouts/common  
+//- ket noi voi common.pug trong layouts
+block content
+   h2 USERS
+   a.btn.btn-primary.mb-2(href="/users/create") New users
+   form(action="/users/search",method="GET",class="ml-2 d-flex") 
+      //- gui lên thanh users/search
+      //- q sẽ đại diện cho gtri hiển thị trên thanh 
+      
+      input(type="text",name="q" class="ml-3") 
+      button(class="btn btn-primary") Seach
+   table.table.table-striped
+      tr
+         th(scope='col') Name
+         th(scope='col') Phone
+         th(scope='col') Actions   
+      //- đặt 1 object là user    
+      each user in users    
+         tr 
+            td=user.name
+            td=user.phone
+            td
+               a.btn.btn-secondary( href="/users/" +user.id ) View

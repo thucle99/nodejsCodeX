@@ -1,0 +1,22 @@
+extend ../layouts/common  
+block content
+    h1 Product
+    .row
+        each product in products
+            .col-md-3.mb-3.border.cart
+                .card.text-white.text-center
+                img.card-img(src=product.image)
+                p= product.description 
+                a.btn.btn-primary(href='/cart/add/' + product.id) Love Here
+    ul.pagination.justify-content-end
+        li.page-item.disabled
+            a.page-link(href='#') Previous
+        li.page-item
+            a.page-link(href='http://localhost:3000/products?page=1') 1
+        li.page-item
+            a.page-link(href='http://localhost:3000/products?page=2') 2
+        li.page-item
+            a.page-link(href='http://localhost:3000/products?page=3') 3
+        li.page-item
+            a.page-link(href='#') Next
+                    

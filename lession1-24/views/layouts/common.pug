@@ -1,0 +1,28 @@
+html
+   header
+      link(rel="stylesheet", href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css")
+      link(rel="stylesheet", href="/styles/custom.css")
+   body
+      nav.navbar.navbar-expand-lg.navbar-light.bg-light
+         a.btn.btn-info.navbar-brand(href='#') ThucLe
+         button.navbar-toggler(type='button', data-toggle='collapse', data-target='#navbarNav', aria-controls='navbarNav', aria-expanded='false', aria-label='Toggle navigation')
+            span.navbar-toggler-icon
+         #navbarNav.collapse.navbar-collapse
+            ul.navbar-nav
+               li.nav-item.active
+               a.nav-link(href='#')
+                  | Home 
+                  span.sr-only (current)
+               li.nav-item
+               a.nav-link(href='#') Users
+               li.nav-item
+               a.nav-link(href='#') Products
+               li.nav-item
+               a.nav-link(href='#', tabindex='-1', aria-disabled='true') Cart
+                  span.badge.badge-light (sum)
+         if user  
+            p=user.name  
+         // tồn tại user thì hiển thị tên đăng nhập
+   .container.pt-5
+      block content   
+      //- nội dung sẽ được thêm vào đây khi gọi block content của file khác

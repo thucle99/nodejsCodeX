@@ -1,0 +1,264 @@
+{
+  "users": [
+    {
+      "name": "Lê Trung Thực",
+      "phone": "0344742282",
+      "id": "B17DCCN594",
+      "email": "thucleit99@gmail.com",
+      "password": "264b75fb474c9186a5e201b2f4c4ae09"
+    },
+    {
+      "name": "Tom",
+      "phone": "2243024258",
+      "id": "368252",
+      "avatar": "uploads\\5af3d1bececb03a8db0070a0ad294638"
+    },
+    {
+      "name": "Badum",
+      "phone": "2243024258",
+      "id": "e00c98",
+      "avatar": "uploads\\aac61ca0d6b7b2bf5d90561e6d1b9127"
+    },
+    {
+      "name": "Phạm Văn Tính",
+      "phone": "0377619508",
+      "id": "f86e8c",
+      "avatar": "uploads\\b1f9bb9fb59543b487501021dfd5c969"
+    },
+    {
+      "name": "ditme dhs để tên admin làm tài khoản truy cập được",
+      "phone": "ngu vkl t để thử phone là text nè",
+      "id": "da1fb1",
+      "avatar": "uploads\\665fc266097fd54b438eaf2735cd1b2d"
+    }
+  ],
+  "products": [
+    {
+      "id": "ec56bfc5-dbd9-495c-b677-08758395835d",
+      "name": "Kippers - Smoked",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea"
+    },
+    {
+      "id": "159c9471-fec6-46bb-83d8-2286995e6768",
+      "name": "Apple - Royal Gala",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus"
+    },
+    {
+      "id": "87e06f68-9bf3-4b18-b536-eb833e45399c",
+      "name": "Appetizer - Escargot Puff",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque"
+    },
+    {
+      "id": "fc25ed76-b08e-472a-8917-15cf125edbaf",
+      "name": "Tea Peppermint",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel"
+    },
+    {
+      "id": "3985e8a5-9066-438a-899f-827872c1ba2a",
+      "name": "Cheese - Brie,danish",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut"
+    },
+    {
+      "id": "ce113e59-79ac-4337-8808-a6b7dc9673f7",
+      "name": "Whmis Spray Bottle Graduated",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec"
+    },
+    {
+      "id": "04fba1af-3972-4b5c-ac18-a87c9348cb20",
+      "name": "Veal - Tenderloin, Untrimmed",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis"
+    },
+    {
+      "id": "4e480156-104e-498c-b628-942f8a39e1f0",
+      "name": "Soupcontfoam16oz 116con",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue"
+    },
+    {
+      "id": "909e4a3f-1fcb-434f-927d-0195dac6c6b0",
+      "name": "Parsnip",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor"
+    },
+    {
+      "id": "014e7f02-0950-47c6-86ae-b89bf1cec1d7",
+      "name": "Dasheen",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere"
+    },
+    {
+      "id": "4958f71f-b614-4e65-81a3-6a0904bb5fe4",
+      "name": "Longos - Grilled Salmon With Bbq",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien"
+    },
+    {
+      "id": "3375ed32-b501-49c3-b7bf-916a80a6b35e",
+      "name": "Wine - Trimbach Pinot Blanc",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit"
+    },
+    {
+      "id": "4de5603f-7ced-492e-888b-30f7142d3c1e",
+      "name": "Corn Meal",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent"
+    },
+    {
+      "id": "4f55274f-534c-4b08-b85c-9bd021f44171",
+      "name": "Cafe Royale",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales"
+    },
+    {
+      "id": "ec56bfc5-dbd9-495c-b677-08758395835d",
+      "name": "Kippers - Smoked",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea"
+    },
+    {
+      "id": "159c9471-fec6-46bb-83d8-2286995e6768",
+      "name": "Apple - Royal Gala",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus"
+    },
+    {
+      "id": "87e06f68-9bf3-4b18-b536-eb833e45399c",
+      "name": "Appetizer - Escargot Puff",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque"
+    },
+    {
+      "id": "fc25ed76-b08e-472a-8917-15cf125edbaf",
+      "name": "Tea Peppermint",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel"
+    },
+    {
+      "id": "3985e8a5-9066-438a-899f-827872c1ba2a",
+      "name": "Cheese - Brie,danish",
+      "image": "https://admin.queminhngaymoi.vn/public/images/news/news_6/tkts_tam_auto_29_10_2019_chi_can_nhin_vao_4_dieu_nay2_2019_10_29_21_22.jpg",
+      "description": "a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "d1b566",
+      "girl": {
+        "ec56bfc5-dbd9-495c-b677-08758395835d": 3,
+        "159c9471-fec6-46bb-83d8-2286995e6768": 1,
+        "fc25ed76-b08e-472a-8917-15cf125edbaf": 1,
+        "3985e8a5-9066-438a-899f-827872c1ba2a": 1
+      }
+    },
+    {
+      "id": "2d34da",
+      "cart": {
+        "ec56bfc5-dbd9-495c-b677-08758395835d": 8,
+        "159c9471-fec6-46bb-83d8-2286995e6768": 1,
+        "87e06f68-9bf3-4b18-b536-eb833e45399c": 1
+      }
+    },
+    {
+      "id": "6a7192"
+    },
+    {
+      "id": "54c3a6"
+    },
+    {
+      "id": "faa088"
+    },
+    {
+      "id": "ae3589"
+    },
+    {
+      "id": "48a73b"
+    },
+    {
+      "id": "978c81"
+    },
+    {
+      "id": "3d697c"
+    },
+    {
+      "id": "6a9d62"
+    },
+    {
+      "id": "144341"
+    },
+    {
+      "id": "f88c69"
+    },
+    {
+      "id": "6ce402"
+    },
+    {
+      "id": "e4395a"
+    },
+    {
+      "id": "ea2127"
+    },
+    {
+      "id": "200a12"
+    },
+    {
+      "id": "af2c28"
+    },
+    {
+      "id": "e3c476"
+    },
+    {
+      "id": "9c0030"
+    },
+    {
+      "id": "357be6"
+    },
+    {
+      "id": "00427c"
+    },
+    {
+      "id": "3ca421"
+    },
+    {
+      "id": "177df4"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "ea868e",
+      "amount": 500000,
+      "accountId": "thuc1147"
+    },
+    {
+      "id": "d50a06",
+      "amount": 500000,
+      "accountId": "airi",
+      "userID": "B17DCCN594"
+    },
+    {
+      "id": "df2c24",
+      "amount": 123456,
+      "accountId": "deocomail@gmail.com",
+      "userID": "B17DCCN594"
+    },
+    {
+      "id": "fcb348",
+      "amount": 200,
+      "accountId": "Lâm Thồn",
+      "userID": "B17DCCN594"
+    },
+    {
+      "id": "2234b0",
+      "amount": 1437,
+      "accountId": "thucleit99@gmail.com",
+      "userID": "B17DCCN594"
+    }
+  ]
+}

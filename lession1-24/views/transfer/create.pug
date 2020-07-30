@@ -1,0 +1,14 @@
+extend ../layouts/common  
+block content
+   h1 New Transfer
+   form(method='POST')
+      input(type="hidden" , name="_csrf",value=csrfToken)
+      .form-group
+         label(for="account")  Account   
+         input#account.form-control(type="text" name="accountId")
+         //-  nếu values k rỗng thì gtri đk gán,không thì values.name=""
+      .form-group
+         label(for="amount")  Amount  
+         input#password.form-control(type="text" name="amount")   
+
+      button.btn.btn-primary Transfer    
